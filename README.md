@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a final-year Computer Science and Engineering student at MNNIT Allahabad.<br>Proficient in the MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Strong understanding of Data Structures and Algorithms<br>Familiar with Version Control using Git and GitHub
+I'm currently a final-year Computer Science and Engineering student at MNNIT Allahabad.<br>Proficient in the MongoDB, Express.js, Node.js<br>Strong understanding of Data Structures and Algorithms<br>Familiar with Version Control using Git and GitHub
 
 
 ## 🌐 Socials:
